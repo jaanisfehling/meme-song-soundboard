@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Soundboard"
+             x:Class="Meme_Songs.MainPage">
+
+    <Grid RowSpacing="0"
+          BackgroundColor="#E4E4E4">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="5"/>
+        </Grid.RowDefinitions>
+        <ScrollView Orientation="Vertical"
+                    Grid.Row="0" >
+            <Grid RowSpacing="6"
+                  ColumnSpacing="6"
+                  BackgroundColor="#FFFFFF">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="0" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="0" />
+                </Grid.ColumnDefinitions>
+
+                <Button Text = "Flute"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="1"
+                    Grid.Row="1"
+                    Clicked="Button1_Clicked"/>
+
+                <Button Text = "Big Shaq"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="2"
+                    Grid.Row="1"
+                    Clicked="Button2_Clicked"/>
+
+                <Button Text = "Shooting Star"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="3"
+                    Grid.Row="1"
+                    Clicked="Button3_Clicked"/>
+
+                <Button Text = "Its everyday bro"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="1"
+                    Grid.Row="2"
+                    Clicked="Button4_Clicked"/>
+
+                <Button Text = "John Cena"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="2"
+                    Grid.Row="2"
+                    Clicked="Button5_Clicked"/>
+
+                <Button Text = "Nyan Cat"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="3"
+                    Grid.Row="2"
+                    Clicked="Button6_Clicked"/>
+
+                <Button Text = "Snoop Dogg"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="1"
+                    Grid.Row="3"
+                    Clicked="Button7_Clicked"/>
+
+                <Button Text = "Russia"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="2"
+                    Grid.Row="3"
+                    Clicked="Button8_Clicked"/>
+
+                <Button Text = "Moskau"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="3"
+                    Grid.Row="3"
+                    Clicked="Button9_Clicked"/>
+
+                <Button Text = "Dollar in the woods"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="1"
+                    Grid.Row="4"
+                    Clicked="Button10_Clicked"/>
+
+                <Button Text = "Mine Diamonds"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="2"
+                    Grid.Row="4"
+                    Clicked="Button11_Clicked"/>
+
+                <Button Text = "Sanic"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="3"
+                    Grid.Row="4"
+                    Clicked="Button12_Clicked"/>
+
+                <Button Text = "Bazzi - Mine"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="1"
+                    Grid.Row="5"
+                    Clicked="Button13_Clicked"/>
+
+                <Button Text = "Doin your Mom"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="2"
+                    Grid.Row="5"
+                    Clicked="Button14_Clicked"/>
+
+                <Button Text = "Wii"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="3"
+                    Grid.Row="5"
+                    Clicked="Button15_Clicked"/>
+
+                <Button Text = "Sandstorm"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="1"
+                    Grid.Row="6"
+                    Clicked="Button16_Clicked"/>
+
+                <Button Text = "Epic Sax"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="2"
+                    Grid.Row="6"
+                    Clicked="Button17_Clicked"/>
+
+                <Button Text = "Deja Vu"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="3"
+                    Grid.Row="6"
+                    Clicked="Button18_Clicked"/>
+
+                <Button Text = "Dance till you're dead"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="1"
+                    Grid.Row="7"
+                    Clicked="Button19_Clicked"/>
+
+                <Button Text = "Super Saiyan"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="2"
+                    Grid.Row="7"
+                    Clicked="Button20_Clicked"/>
+
+                <Button Text = "To be continued"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="3"
+                    Grid.Row="7"
+                    Clicked="Button21_Clicked"/>
+
+                <Button Text = "Cheeki Breeki"
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="1"
+                    Grid.Row="8"
+                    Clicked="Button22_Clicked"/>
+
+                <Button Text = ""
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="2"
+                    Grid.Row="8"
+                    Clicked="Button23_Clicked"/>
+
+                <Button Text = ""
+                    BackgroundColor="OrangeRed"
+                    Grid.Column="3"
+                    Grid.Row="8"
+                    Clicked="Button24_Clicked"/>
+
+            </Grid>
+        </ScrollView>
+        <Button Grid.Row="2"
+                Text="Stop"
+                BackgroundColor="OrangeRed"
+                Clicked="Stop_Clicked" 
+                HorizontalOptions="Center"/>
+    </Grid>
+</ContentPage>

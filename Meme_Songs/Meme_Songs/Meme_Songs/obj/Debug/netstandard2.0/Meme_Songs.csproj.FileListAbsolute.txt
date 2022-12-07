@@ -1,0 +1,11 @@
+C:\Users\Admin\Projects\Soundboards\Meme_Songs\Meme_Songs\Meme_Songs\bin\Debug\netstandard2.0\Meme_Songs.deps.json
+C:\Users\Admin\Projects\Soundboards\Meme_Songs\Meme_Songs\Meme_Songs\bin\Debug\netstandard2.0\Meme_Songs.dll
+C:\Users\Admin\Projects\Soundboards\Meme_Songs\Meme_Songs\Meme_Songs\bin\Debug\netstandard2.0\Meme_Songs.pdb
+C:\Users\Admin\Projects\Soundboards\Meme_Songs\Meme_Songs\Meme_Songs\obj\Debug\netstandard2.0\Meme_Songs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Projects\Soundboards\Meme_Songs\Meme_Songs\Meme_Songs\obj\Debug\netstandard2.0\Meme_Songs.App.xaml.g.cs
+C:\Users\Admin\Projects\Soundboards\Meme_Songs\Meme_Songs\Meme_Songs\obj\Debug\netstandard2.0\Meme_Songs.MainPage.xaml.g.cs
+C:\Users\Admin\Projects\Soundboards\Meme_Songs\Meme_Songs\Meme_Songs\obj\Debug\netstandard2.0\Meme_Songs.AssemblyInfoInputs.cache
+C:\Users\Admin\Projects\Soundboards\Meme_Songs\Meme_Songs\Meme_Songs\obj\Debug\netstandard2.0\Meme_Songs.AssemblyInfo.cs
+C:\Users\Admin\Projects\Soundboards\Meme_Songs\Meme_Songs\Meme_Songs\obj\Debug\netstandard2.0\Meme_Songs.dll
+C:\Users\Admin\Projects\Soundboards\Meme_Songs\Meme_Songs\Meme_Songs\obj\Debug\netstandard2.0\Meme_Songs.pdb
+C:\Users\Admin\Projects\Soundboards\Meme_Songs\Meme_Songs\Meme_Songs\obj\Debug\netstandard2.0\Meme_Songs.csprojResolveAssemblyReference.cache
